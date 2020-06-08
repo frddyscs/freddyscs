@@ -1,3 +1,1 @@
-# freddyscs
-
-Hola q tal?
+# freddyscs repository
